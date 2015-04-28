@@ -1,0 +1,2 @@
+C-SHARP_USB_ADC_Test：
+在C#平台调用USB-I2C适配器或者USB-SPI适配器的二次编程接口函数实现ADC（模数转换）功能，USB-SPI适配器和USB-I2C适配器有8路、12bit、采样频率为1M的ADC，适配器采用3.3V参考电压，利用适配器的ADC功能可以测量0到3.3V之间的模拟电压信号。

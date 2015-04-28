@@ -1,0 +1,38 @@
+C++Builder_USB_PWM_Test：
+在C++Builder XE3平台调用USB-I2C适配器或者USB-SPI适配器的二次编程接口函数实现PWM控制功能。
+
+C++Builder_USB_ADC_Test：
+在C++Builder XE3平台调用USB-I2C适配器或者USB-SPI适配器的二次编程接口函数实现ADC（模数转换）功能，USB-SPI适配器和USB-I2C适配器有8路、12bit、采样频率为1M的ADC，适配器采用3.3V参考电压，利用适配器的ADC功能可以测量0到3.3V之间的模拟电压信号。
+
+C++Builder_USB_GPIO_Test：
+在C++Builder XE3平台调用USB-I2C适配器或者USB-SPI适配器的二次编程接口函数实现GPIO读写控制功能，本程序对GPIO读写控制的各种模式进行了全面展示。
+
+C++Builder_USB_I2C_AM2321B：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对AM2321B温湿度传感器模块进行读写控制。
+C++Builder_USB_I2C_AT24C02：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对AT24C02芯片进行读写控制，对本程序稍做修改可以适用于任何I2C接口的EEPROM芯片。
+C++Builder_USB_I2C_AT24C02_SCTL：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对AT24C02芯片进行读写控制，本程序利用了USB-I2C适配器的软件I2C功能，该模式下最多可以接8路I2C设备。
+C++Builder_USB_I2C_BH1750FVI：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对BH1750FVI光强度测量芯片进行读写控制，利用该程序和BH1750FVI模块可以实现对环境光照强度进行测量。
+C++Builder_USB_I2C_MPU6050：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对MPU6050加速度传感器芯片进行读写控制，例程该程序可以获取MPU6050芯片模块此时各个方向的加速度值和角加速度值。
+C++Builder_USB_I2C_PCA9555：
+在C++Builder XE3平台调用USB-I2C适配器二次编程接口函数实现对PCA9555串并转换芯片进行读写控制，本程序控制该芯片的各个IO脚间隔输出高低电平。
+C++Builder_USB_I2C_TEA5767：
+在C++Builder XE3平台利用USB-I2C适配器实现对TEA5767收音机芯片进行控制。
+
+C++Builder_USB_SPI_Test：
+在C++Builder XE3平台调用USB-SPI适配器二次编程接口函数实现对USB-SPI适配器的读写控制，本例程展示了USB-SPI适配器所有二次编程接口函数的使用方法，同时对每个函数的相关参数进行了详细的说明。
+C++Builder_USB_SPI_W25Q32：
+在C++Builder XE3平台调用USB-SPI适配器二次编程接口函数实现对W25Q32芯片进行读写控制，本程序适用于所有SPI接口的25系列芯片。
+C++Builder_USB_SPI_AT45DB041D:
+在C++Builder XE3平台利用Ginkgo USB-SPI适配器实现对AT45DB041D芯片读写控制。
+C++Builder_USB_SPI_AT45DB161D:
+在C++Builder XE3平台利用Ginkgo USB-SPI适配器实现对AT45DB161D芯片读写控制。
+C++Builder_USB_SPI_M95040:
+在C++Builder XE3平台利用Ginkgo USB-SPI适配器实现对M95040芯片读写控制。
+C++Builder_USB_SPI_SpeedTest:
+在C++Builder XE3平台测试Ginkgo USB-SPI数据读写极限速度。
+C++Builder_USB_SPI_WriteFile:
+在C++Builder XE3平台利用Ginkgo USB-SPI适配器发送在文件中预先编辑好的数据。

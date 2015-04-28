@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1409814155 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_PCA9555/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlI2C.h"
+
+1409823074 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_PCA9555/Source/ControlI2C.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+	<unistd.h>
+
+1409809372 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_PCA9555/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+

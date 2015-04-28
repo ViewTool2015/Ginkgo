@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/03/04 17:21:42.000.939,E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\ABOUT.CPP=</Transaction>
+    <Transaction>2014/03/04 17:36:53.000.691,E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\USB_I2C_AT24C02.cbproj=E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\sdiapp.cbproj</Transaction>
+    <Transaction>2014/03/04 17:37:59.000.856,=E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\ErrorType.h</Transaction>
+    <Transaction>2014/03/04 17:37:59.000.852,=E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\ControlI2C.h</Transaction>
+    <Transaction>2014/03/04 17:38:15.000.354,=E:\Projects\Work\vt_ginkgo\truck\Ginkgo Application Example\C++ Builder\Ginkgo I2C\C++Builder_USB_I2C_AT24C02\Lib\Ginkgo_Driver.lib</Transaction>
+  </Transactions>
+</BorlandProject>

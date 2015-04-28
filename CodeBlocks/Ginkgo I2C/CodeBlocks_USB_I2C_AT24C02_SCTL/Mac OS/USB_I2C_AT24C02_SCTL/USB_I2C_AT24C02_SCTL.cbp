@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="USB_I2C_AT24C02_SCTL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/USB_I2C_AT24C02_SCTL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DOS_UNIX" />
+				</Compiler>
+				<Linker>
+					<Add library="../../lib/macos/libGinkgo_Driver.dylib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/USB_I2C_AT24C02_SCTL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DOS_UNIX" />
+				</Compiler>
+				<Linker>
+					<Add library="../../lib/macos/libGinkgo_Driver.dylib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-DOS_UNIX" />
+		</Compiler>
+		<Linker>
+			<Add library="../../lib/macos/libGinkgo_Driver.dylib" />
+		</Linker>
+		<Unit filename="../../Source/ControlI2C.h" />
+		<Unit filename="../../Source/ErrorType.h" />
+		<Unit filename="../../Source/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

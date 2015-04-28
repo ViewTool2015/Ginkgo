@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1394260264 source:e:\project\vt_ginkgo\truck\ginkgo application example\codeblocks\ginkgo spi\codeblocks_usb_spi_writefile\source\main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlSPI.h"
+
+1409798758 e:\project\vt_ginkgo\truck\ginkgo application example\codeblocks\ginkgo spi\codeblocks_usb_spi_writefile\source\controlspi.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+	<unistd.h>
+
+1409798786 e:\project\vt_ginkgo\truck\ginkgo application example\codeblocks\ginkgo spi\codeblocks_usb_spi_writefile\source\errortype.h
+	<stdint.h>
+	<Windows.h>
+	<unistd.h>
+

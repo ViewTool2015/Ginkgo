@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1409819109 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo SPI/CodeBlocks_USB_SPI_AT45DB161D/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlSPI.h"
+
+1409817226 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo SPI/CodeBlocks_USB_SPI_AT45DB161D/Source/ControlSPI.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+	<unistd.h>
+
+1409816540 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo SPI/CodeBlocks_USB_SPI_AT45DB161D/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+	<unistd.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1409806519 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo GPIO/CodeBlocks_USB_GPIO_Test/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlGPIO.h"
+
+1409806485 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo GPIO/CodeBlocks_USB_GPIO_Test/Source/ControlGPIO.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+
+1409806457 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo GPIO/CodeBlocks_USB_GPIO_Test/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+

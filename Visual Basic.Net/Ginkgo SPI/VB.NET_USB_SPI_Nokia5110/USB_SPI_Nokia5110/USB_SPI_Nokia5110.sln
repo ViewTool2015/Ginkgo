@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "USB_SPI_Nokia5110", "USB_SPI_Nokia5110\USB_SPI_Nokia5110.vbproj", "{1E008CB7-983B-45FB-8782-2F531B864DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E008CB7-983B-45FB-8782-2F531B864DFC}.Debug|x86.ActiveCfg = Debug|x86
+		{1E008CB7-983B-45FB-8782-2F531B864DFC}.Debug|x86.Build.0 = Debug|x86
+		{1E008CB7-983B-45FB-8782-2F531B864DFC}.Release|x86.ActiveCfg = Release|x86
+		{1E008CB7-983B-45FB-8782-2F531B864DFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

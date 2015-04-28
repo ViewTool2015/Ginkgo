@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1408417959 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_BMP180/Source/bmp180.cpp
+	"bmp180.h"
+
+1408418940 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_BMP180/Source/bmp180.h
+
+1409812482 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_BMP180/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"ControlI2C.h"
+	"bmp180.h"
+
+1409823074 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_BMP180/Source/ControlI2C.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+	<unistd.h>
+
+1409809372 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo I2C/CodeBlocks_USB_I2C_BMP180/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+

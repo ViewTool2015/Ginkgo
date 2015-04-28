@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1409803151 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlADC.h"
+
+1409805395 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/ControlADC.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+
+1409802949 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+
+1409815739 source:/Volumes/VMware Shared Folders/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/main.cpp
+	<iostream>
+	<stdio.h>
+	"ControlADC.h"
+
+1409822789 /Volumes/VMware Shared Folders/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/ControlADC.h
+	<stdint.h>
+	"ErrorType.h"
+	<Windows.h>
+
+1409802949 /Volumes/VMware Shared Folders/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo ADC/CodeBlocks_USB_ADC_Test/Source/ErrorType.h
+	<stdint.h>
+	<Windows.h>
+

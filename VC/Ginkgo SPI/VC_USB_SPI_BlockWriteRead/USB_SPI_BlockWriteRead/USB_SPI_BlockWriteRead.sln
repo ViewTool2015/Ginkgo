@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB_SPI_BlockWriteRead", "USB_SPI_BlockWriteRead\USB_SPI_BlockWriteRead.vcxproj", "{87D98C6B-6B47-4E71-8C2E-9287D252C672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D98C6B-6B47-4E71-8C2E-9287D252C672}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87D98C6B-6B47-4E71-8C2E-9287D252C672}.Debug|Win32.Build.0 = Debug|Win32
+		{87D98C6B-6B47-4E71-8C2E-9287D252C672}.Release|Win32.ActiveCfg = Release|Win32
+		{87D98C6B-6B47-4E71-8C2E-9287D252C672}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

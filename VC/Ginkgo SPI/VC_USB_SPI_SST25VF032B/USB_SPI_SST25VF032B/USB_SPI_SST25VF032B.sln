@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB_SPI_SST25VF032B", "USB_SPI_SST25VF032B\USB_SPI_SST25VF032B.vcxproj", "{CAD7B33F-2C3C-4CA7-B347-543483A19C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD7B33F-2C3C-4CA7-B347-543483A19C26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAD7B33F-2C3C-4CA7-B347-543483A19C26}.Debug|Win32.Build.0 = Debug|Win32
+		{CAD7B33F-2C3C-4CA7-B347-543483A19C26}.Release|Win32.ActiveCfg = Release|Win32
+		{CAD7B33F-2C3C-4CA7-B347-543483A19C26}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

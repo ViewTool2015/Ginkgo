@@ -1,0 +1,2 @@
+C-SHARP_USB_GPIO_Test：
+在C#平台调用USB-I2C适配器或者USB-SPI适配器的二次编程接口函数实现GPIO读写控制功能，本程序对GPIO读写控制的各种模式进行了全面展示。

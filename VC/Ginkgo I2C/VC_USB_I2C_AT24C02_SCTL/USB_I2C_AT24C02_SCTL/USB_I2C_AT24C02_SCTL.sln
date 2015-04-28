@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB_I2C_AT24C02_SCTL", "USB_I2C_AT24C02_SCTL\USB_I2C_AT24C02_SCTL.vcxproj", "{2CE3C4C5-2F4A-4CCE-8CFD-0FACA3C1D0A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE3C4C5-2F4A-4CCE-8CFD-0FACA3C1D0A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CE3C4C5-2F4A-4CCE-8CFD-0FACA3C1D0A1}.Debug|Win32.Build.0 = Debug|Win32
+		{2CE3C4C5-2F4A-4CCE-8CFD-0FACA3C1D0A1}.Release|Win32.ActiveCfg = Release|Win32
+		{2CE3C4C5-2F4A-4CCE-8CFD-0FACA3C1D0A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

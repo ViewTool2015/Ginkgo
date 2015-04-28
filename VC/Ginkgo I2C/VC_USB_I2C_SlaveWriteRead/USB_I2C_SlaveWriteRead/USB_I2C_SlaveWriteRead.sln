@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USB_I2C_SlaveWriteRead", "USB_I2C_SlaveWriteRead\USB_I2C_SlaveWriteRead.vcxproj", "{60E8C1F0-976A-4BFF-8A17-7ED47330F620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E8C1F0-976A-4BFF-8A17-7ED47330F620}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60E8C1F0-976A-4BFF-8A17-7ED47330F620}.Debug|Win32.Build.0 = Debug|Win32
+		{60E8C1F0-976A-4BFF-8A17-7ED47330F620}.Release|Win32.ActiveCfg = Release|Win32
+		{60E8C1F0-976A-4BFF-8A17-7ED47330F620}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1409806253 source:/mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo CAN/CodeBlocks_USB_CAN_Test/Source/CANTest.cpp
+	<Windows.h>
+	<unistd.h>
+	"ControlCAN.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1409796357 /mnt/hgfs/Project/vt_ginkgo/truck/Ginkgo Application Example/CodeBlocks/Ginkgo CAN/CodeBlocks_USB_CAN_Test/Source/ControlCAN.h
+	<stdint.h>
+	<Windows.h>
+

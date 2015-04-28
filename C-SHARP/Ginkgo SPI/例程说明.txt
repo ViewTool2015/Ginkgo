@@ -1,0 +1,6 @@
+C-SHARP_USB_SPI_Test：
+在C#平台调用USB-SPI适配器二次编程接口函数实现对USB-SPI适配器的读写控制，本例程展示了USB-SPI适配器所有二次编程接口函数的使用方法，同时对每个函数的相关参数进行了详细的说明。
+C-SHARP_USB_SPI_W25Q32：
+在C#平台调用USB-SPI适配器二次编程接口函数实现对W25Q32芯片进行读写控制，本程序适用于所有SPI接口的25系列芯片。
+C-SHARP_USB_SPI_AT45DB161D:
+在C#平台利用Ginkgo USB-SPI适配器实现对AT45DB161D存储器芯片读写控制。
